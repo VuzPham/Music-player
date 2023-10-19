@@ -35,7 +35,7 @@ const music_list = [
     },
     {
         img:'img/tinhcoyeuem.jpg',
-        name: 'Tình Cờ Yêu Em (Lofi Ver.)',
+        name: 'Tình Cờ Yêu Em',
         artist: 'Kuun Đức Nam x Linh Thộn x Freak D',
         music:'Music/Tình Cờ Yêu Em.mp3'
     },
